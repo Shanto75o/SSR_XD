@@ -1,3 +1,3 @@
-inport os
+import run
 import SSR_xd
-SSR_xd.login()
+
